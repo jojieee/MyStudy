@@ -1,0 +1,16 @@
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.exe
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.deps.json
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.runtimeconfig.json
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.runtimeconfig.dev.json
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.dll
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\ref\UsingVar.dll
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\bin\Debug\net5.0\UsingVar.pdb
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.csproj.AssemblyReference.cache
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.AssemblyInfoInputs.cache
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.AssemblyInfo.cs
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.dll
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\ref\UsingVar.dll
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.pdb
+C:\Users\조지원\source\repos\3장\UsingVar\UsingVar\obj\Debug\net5.0\UsingVar.genruntimeconfig.cache

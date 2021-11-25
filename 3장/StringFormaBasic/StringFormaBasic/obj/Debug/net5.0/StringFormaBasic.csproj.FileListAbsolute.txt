@@ -1,0 +1,16 @@
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.exe
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.deps.json
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.runtimeconfig.json
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.runtimeconfig.dev.json
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.dll
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\ref\StringFormaBasic.dll
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\bin\Debug\net5.0\StringFormaBasic.pdb
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.csproj.AssemblyReference.cache
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.AssemblyInfoInputs.cache
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.AssemblyInfo.cs
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.csproj.CoreCompileInputs.cache
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.dll
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\ref\StringFormaBasic.dll
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.pdb
+C:\Users\조지원\source\repos\3장\StringFormaBasic\StringFormaBasic\obj\Debug\net5.0\StringFormaBasic.genruntimeconfig.cache
