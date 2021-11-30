@@ -1,0 +1,16 @@
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.exe
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.deps.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.runtimeconfig.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.runtimeconfig.dev.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\ref\UsingParams.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\bin\Debug\net5.0\UsingParams.pdb
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.csproj.AssemblyReference.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.AssemblyInfoInputs.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.AssemblyInfo.cs
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.csproj.CoreCompileInputs.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\ref\UsingParams.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.pdb
+C:\Users\조지원\source\repos\C#\MyStudy\6장\UsingParams\UsingParams\obj\Debug\net5.0\UsingParams.genruntimeconfig.cache

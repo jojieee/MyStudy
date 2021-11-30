@@ -1,0 +1,16 @@
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.csproj.AssemblyReference.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.AssemblyInfoInputs.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.AssemblyInfo.cs
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.csproj.CoreCompileInputs.cache
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.exe
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.deps.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.runtimeconfig.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.runtimeconfig.dev.json
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ref\ForArray.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\bin\Debug\net5.0\ForArray.pdb
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ref\ForArray.dll
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.pdb
+C:\Users\조지원\source\repos\C#\MyStudy\6장\ForArray\ForArray\obj\Debug\net5.0\ForArray.genruntimeconfig.cache
