@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f042be28-5e84-440b-bc58-7760f92c9d26": {
+      "ProjectGuid": "f042be28-5e84-440b-bc58-7760f92c9d26",
+      "DisplayName": "HelloCSharpWin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
