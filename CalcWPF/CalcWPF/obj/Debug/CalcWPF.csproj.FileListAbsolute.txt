@@ -1,0 +1,16 @@
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.AssemblyReference.cache
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.SuggestedBindingRedirects.cache
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\MainWindow.g.cs
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\App.g.cs
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF_MarkupCompile.cache
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF_MarkupCompile.lref
+D:\csharp\Project1\CalcWPF\CalcWPF\bin\Debug\CalcWPF.exe.config
+D:\csharp\Project1\CalcWPF\CalcWPF\bin\Debug\CalcWPF.exe
+D:\csharp\Project1\CalcWPF\CalcWPF\bin\Debug\CalcWPF.pdb
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\MainWindow.baml
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.g.resources
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.Properties.Resources.resources
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.GenerateResource.cache
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.csproj.CoreCompileInputs.cache
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.exe
+D:\csharp\Project1\CalcWPF\CalcWPF\obj\Debug\CalcWPF.pdb
