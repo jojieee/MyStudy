@@ -1,0 +1,16 @@
+D:\csharp\Project1\CalcMVVM\CalcMVVM\bin\Debug\CalcMVVM.exe.config
+D:\csharp\Project1\CalcMVVM\CalcMVVM\bin\Debug\CalcMVVM.exe
+D:\csharp\Project1\CalcMVVM\CalcMVVM\bin\Debug\CalcMVVM.pdb
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.csproj.AssemblyReference.cache
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.csproj.SuggestedBindingRedirects.cache
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\MainWindow.g.cs
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\App.g.cs
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM_MarkupCompile.cache
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM_MarkupCompile.lref
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\MainWindow.baml
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.g.resources
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.Properties.Resources.resources
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.csproj.GenerateResource.cache
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.csproj.CoreCompileInputs.cache
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.exe
+D:\csharp\Project1\CalcMVVM\CalcMVVM\obj\Debug\CalcMVVM.pdb
